@@ -26,7 +26,7 @@ Testing
 ------
 Test cases may be ran by navigating to chrome-extension://jbnkffmindojffecdhbbmekbmkkfpmjd/test.html, but only after the extension package has been loaded into Google Chrome. 
 
-Streamus uses [Mocha](http://visionmedia.github.io/mocha/), [Chai](http://chaijs.com/), and [Sinon](http://sinonjs.org/) for its test cases.
+Streamus uses [Mocha](http://mochajs.org/), [Chai](http://chaijs.com/), and [Sinon](http://sinonjs.org/) for its test cases.
 
 Deployment
 ========
@@ -70,7 +70,7 @@ Streamus utilizes several third-party libraries. Here's a list of those most pro
 * [jQuery qTip](http://qtip2.com/)
 * [Less](http://lesscss.org)
 * [Lo-Dash](http://lodash.com/)
-* [Mocha](http://visionmedia.github.io/mocha/)
+* [Mocha](http://mochajs.org/)
 * [RequireJS](http://requirejs.org/)
 * [Sinon](http://sinonjs.org/)
 * [Text](https://github.com/requirejs/text)
